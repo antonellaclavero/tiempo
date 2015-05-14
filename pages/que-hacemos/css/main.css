@@ -13,6 +13,9 @@ h1 {
 h2 {
 	font-size: 1.5em;
 }
+h3 {
+	font-size: 1.3em;
+}
 p {
 	font-size: 1em;
 }
@@ -49,4 +52,29 @@ p {
 	line-height: 1em;
 	margin-bottom: 0.5em;
 	color: #F5F1E3;
+}
+section.que-hacemos {
+	padding: 200px 13%;
+	background-color: #DEFFFC;
+}
+section div.wrapper {
+	background-color: #fff;
+	padding: 30px 10%;
+	border-radius: 2em;
+}
+section.que-hacemos h1,
+p {
+	text-align: left;
+	font-style: normal;
+	line-height: 1em;
+	margin-bottom: 10px;
+	color: #222;
+}
+section.que-hacemos h3 {
+	margin: 20px 0;
+}
+section.que-hacemos li {
+	text-align: left;
+	line-height: 1em;
+	margin-bottom: 10px;
 }
